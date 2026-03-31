@@ -1303,7 +1303,6 @@
 
 import React, { useState, useEffect, useRef } from "react";
 import {
-  Camera,
   MapPin,
   Calendar,
   Clock,
